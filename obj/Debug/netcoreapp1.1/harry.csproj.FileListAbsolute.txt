@@ -1,0 +1,12 @@
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\bin\Debug\netcoreapp1.1\harry.deps.json
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\bin\Debug\netcoreapp1.1\harry.runtimeconfig.json
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\bin\Debug\netcoreapp1.1\harry.runtimeconfig.dev.json
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\bin\Debug\netcoreapp1.1\harry.dll
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\bin\Debug\netcoreapp1.1\harry.pdb
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.csprojAssemblyReference.cache
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.AssemblyInfoInputs.cache
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.AssemblyInfo.cs
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.csproj.CoreCompileInputs.cache
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.dll
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.pdb
+C:\Users\luoha\OneDrive\Documents\GitHub\harry\obj\Debug\netcoreapp1.1\harry.genruntimeconfig.cache
